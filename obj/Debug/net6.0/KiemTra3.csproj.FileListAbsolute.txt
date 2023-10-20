@@ -1,0 +1,14 @@
+D:\source\repos\KiemTra3\bin\Debug\net6.0\KiemTra3.exe
+D:\source\repos\KiemTra3\bin\Debug\net6.0\KiemTra3.deps.json
+D:\source\repos\KiemTra3\bin\Debug\net6.0\KiemTra3.runtimeconfig.json
+D:\source\repos\KiemTra3\bin\Debug\net6.0\KiemTra3.dll
+D:\source\repos\KiemTra3\bin\Debug\net6.0\KiemTra3.pdb
+D:\source\repos\KiemTra3\obj\Debug\net6.0\KiemTra3.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\KiemTra3\obj\Debug\net6.0\KiemTra3.AssemblyInfoInputs.cache
+D:\source\repos\KiemTra3\obj\Debug\net6.0\KiemTra3.AssemblyInfo.cs
+D:\source\repos\KiemTra3\obj\Debug\net6.0\KiemTra3.csproj.CoreCompileInputs.cache
+D:\source\repos\KiemTra3\obj\Debug\net6.0\KiemTra3.dll
+D:\source\repos\KiemTra3\obj\Debug\net6.0\refint\KiemTra3.dll
+D:\source\repos\KiemTra3\obj\Debug\net6.0\KiemTra3.pdb
+D:\source\repos\KiemTra3\obj\Debug\net6.0\KiemTra3.genruntimeconfig.cache
+D:\source\repos\KiemTra3\obj\Debug\net6.0\ref\KiemTra3.dll
