@@ -89,6 +89,7 @@ namespace KiemTra3{
                 Console.WriteLine("5.Sắp xếp theo tổng điểm: ");
                 Console.WriteLine("6.Xóa phần tử bất ký: ");
                 Console.WriteLine("7.Thoát");
+                 Console.WriteLine("\t\t=======END========");
                 Console.Write("Nhập vào lựa chọn: ");
                 int n = Convert.ToInt32(Console.ReadLine());
 
