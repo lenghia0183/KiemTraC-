@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,7 +10,7 @@ namespace KiemTra3
     internal class SinhVienA
     {
 
-        public string ID{ get; set;}
+        public int ID{ get; set;}
         public string Ten { get; set;}
 
         public string DiaChi { get; set;}
@@ -24,21 +25,22 @@ namespace KiemTra3
 
         public double Tong{
             get
-            {
+            {   
                 return Toan + Ly + Hoa + DiemUT;
             }
         }
-
+        static int id = 999;
         public SinhVienA(){
-            this.ID = "";
+            id = id+1;
+            this.ID = id;
             this.Ten = "";
             this.DiaChi = "";
         }
 
         public void Nhap(){
             try{
-                Console.Write("Nhập vào ID: ");
-            this.ID = Console.ReadLine();
+            //     Console.Write("Nhập vào ID: ");
+            // this.ID = Console.ReadLine();
 
             Console.Write("Nhập vào Họ tên: ");
             this.Ten = Console.ReadLine();
